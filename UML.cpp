@@ -3,8 +3,8 @@
 +--------------------------------------------------+
 |                    Person                        |
 +--------------------------------------------------+
-| # id: int                                        |
-| # Fullname: string                               |
+| - id: int                                        |
+| - Fullname: string                               |
 +--------------------------------------------------+
 | + Person(id:int, name:string)                    |
 | + display() const : virtual void                 |
