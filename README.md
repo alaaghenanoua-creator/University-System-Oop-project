@@ -54,5 +54,5 @@ g++ main.cpp University.cpp Dormitory.cpp Room.cpp Student.cpp Restaurant.cpp Pe
 
 ## Author
 
-Alaa Ghenanoua
+GHENANOUA ALAA
 
